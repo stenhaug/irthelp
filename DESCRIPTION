@@ -7,3 +7,5 @@ License: What license it uses
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
+URL: https://github.com/stenhaug/irthelp
+BugReports: https://github.com/stenhaug/irthelp/issues
